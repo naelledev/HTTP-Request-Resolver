@@ -1,0 +1,9 @@
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\bin\Debug\HttpRequestResolver.exe.config
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\bin\Debug\HttpRequestResolver.exe
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\bin\Debug\HttpRequestResolver.pdb
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\obj\Debug\HttpRequestResolver.csproj.AssemblyReference.cache
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\obj\Debug\HttpRequestResolver.csproj.CoreCompileInputs.cache
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\obj\Debug\HttpRequestResolver.csproj.CopyComplete
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\obj\Debug\HttpRequestResolver.exe
+C:\Users\Filip Onetino\source\repos\HttpRequestResolver\HttpRequestResolver\obj\Debug\HttpRequestResolver.pdb
